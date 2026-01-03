@@ -3,7 +3,7 @@
     "Author": "pupwife",
     "Name": "Project GagSpeak",
     "InternalName": "ProjectGagSpeak",
-    "AssemblyVersion": "2.0.1.0",
+    "AssemblyVersion": "2.0.2.0",
     "Punchline": "The Only BDSM Plugin You'll Ever Need!",
     "Description": "GagSpeak 4.0 (Now Server-Side!), 20+ Modules, 100+ Features, 50+ Configurations. No Paywalls!",
     "ApplicableVersion": "any",
@@ -28,5 +28,6 @@
     "LastUpdate": "1767426514"
   }
 ]
+
 
 
